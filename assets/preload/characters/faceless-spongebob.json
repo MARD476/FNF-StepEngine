@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sponge idle"
+		},
+		{
+			"offsets": [
+				436,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spongeLEFT"
+		},
+		{
+			"offsets": [
+				95,
+				405
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spongeUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spongRIGHT"
+		},
+		{
+			"offsets": [
+				169,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spongeDOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "deadHope/irl_sponge",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "putazos",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		252,
+		90
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 0.999999999999998
+}

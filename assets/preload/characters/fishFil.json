@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Liesfishsec1 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Liesfishsec1 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Liesfishsec1 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Liesfishsec1 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-25
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Liesfishsec1 right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "liar/Liesfishsec1Fil",
+	"position": [
+		50,
+		-600
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

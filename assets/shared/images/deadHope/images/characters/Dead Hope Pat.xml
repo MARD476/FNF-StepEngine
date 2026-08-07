@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dead Hope Pat.png">
+<SubTexture name="Dead Hope Pat idle0000" x="0" y="0" width="174" height="391" frameX="-74" frameY="-36" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Right0000" x="174" y="0" width="195" height="363" frameX="-110" frameY="-64" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Right0001" x="369" y="0" width="205" height="343" frameX="-121" frameY="-83" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Right0002" x="575" y="0" width="202" height="341" frameX="-127" frameY="-85" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Right0003" x="777" y="0" width="204" height="344" frameX="-125" frameY="-83" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Right0004" x="981" y="0" width="202" height="345" frameX="-125" frameY="-82" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Right0005" x="1184" y="0" width="202" height="346" frameX="-123" frameY="-81" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Right0006" x="0" y="391" width="201" height="346" frameX="-124" frameY="-80" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Down0000" x="201" y="391" width="174" height="352" frameX="-74" frameY="-75" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Down0001" x="375" y="391" width="174" height="345" frameX="-74" frameY="-82" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Down0002" x="549" y="391" width="174" height="345" frameX="-74" frameY="-82" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Down0003" x="723" y="391" width="174" height="345" frameX="-74" frameY="-82" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Down0004" x="897" y="391" width="174" height="346" frameX="-74" frameY="-81" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Down0005" x="1071" y="391" width="174" height="346" frameX="-74" frameY="-81" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Down0006" x="1071" y="391" width="174" height="346" frameX="-74" frameY="-81" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Left0000" x="0" y="743" width="203" height="373" frameX="-26" frameY="-53" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Left0001" x="203" y="743" width="208" height="368" frameX="-15" frameY="-58" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Left0002" x="411" y="743" width="205" height="367" frameX="-15" frameY="-58" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Left0003" x="617" y="743" width="197" height="365" frameX="-23" frameY="-60" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Left0004" x="814" y="743" width="196" height="365" frameX="-25" frameY="-60" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Left0005" x="1010" y="743" width="193" height="364" frameX="-28" frameY="-61" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Left0006" x="1203" y="743" width="192" height="365" frameX="-30" frameY="-60" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Up0000" x="0" y="1117" width="186" height="410" frameX="-67" frameY="-18" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Up0001" x="186" y="1117" width="196" height="416" frameX="-59" frameY="-13" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Up0002" x="383" y="1117" width="199" height="416" frameX="-58" frameY="-12" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Up0003" x="582" y="1117" width="200" height="415" frameX="-57" frameY="-13" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Up0004" x="782" y="1117" width="200" height="415" frameX="-56" frameY="-14" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Up0005" x="982" y="1117" width="198" height="414" frameX="-58" frameY="-14" frameWidth="347" frameHeight="439" />
+<SubTexture name="Dead Hope Pat Up0006" x="1180" y="1117" width="197" height="414" frameX="-59" frameY="-14" frameWidth="347" frameHeight="439" />
+</TextureAtlas>

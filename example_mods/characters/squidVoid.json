@@ -1,0 +1,60 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				110
+			],
+			"anim": "VOID",
+			"fps": 12,
+			"name": "dead l",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				110
+			],
+			"anim": "VOID-static",
+			"fps": 12,
+			"name": "dead i",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				110
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				0,
+				0,
+				0
+			],
+			"name": "dead l"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dead",
+	"position": [
+		-360,
+		-480
+	],
+	"healthicon": "darkward",
+	"flip_x": false,
+	"healthbar_colors": [
+		118,
+		110,
+		127
+	],
+	"camera_position": [
+		420,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

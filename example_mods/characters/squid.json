@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				117
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "W Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				113
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "W Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				127
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "W Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				145
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "W Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "W Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Squidnomal",
+	"position": [
+		-550,
+		-300
+	],
+	"healthicon": "lolward",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		145,
+		145
+	],
+	"camera_position": [
+		420,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

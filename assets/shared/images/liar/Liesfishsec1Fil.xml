@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Liesfishsec1Fil.png">
+<SubTexture name="Liesfishsec1 idle0000" x="0" y="1342" width="880" height="583" frameX="-373" frameY="-372" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 up0000" x="0" y="0" width="754" height="681" frameX="-385" frameY="-261" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 up0001" x="0" y="0" width="754" height="681" frameX="-385" frameY="-261" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 up0002" x="754" y="0" width="740" height="661" frameX="-395" frameY="-303" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 up0003" x="754" y="0" width="740" height="661" frameX="-395" frameY="-303" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 up0004" x="754" y="0" width="740" height="661" frameX="-395" frameY="-303" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 up0005" x="754" y="0" width="740" height="661" frameX="-395" frameY="-303" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 right0000" x="719" y="681" width="718" height="630" frameX="-509" frameY="-465" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 right0001" x="719" y="681" width="718" height="630" frameX="-509" frameY="-465" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 right0002" x="0" y="681" width="719" height="661" frameX="-485" frameY="-441" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 right0003" x="0" y="681" width="719" height="661" frameX="-485" frameY="-441" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 right0004" x="0" y="681" width="719" height="661" frameX="-485" frameY="-441" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 right0005" x="0" y="681" width="719" height="661" frameX="-485" frameY="-441" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 down0000" x="1494" y="0" width="830" height="584" frameX="-377" frameY="-619" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 down0001" x="1494" y="0" width="830" height="584" frameX="-377" frameY="-619" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 down0002" x="1494" y="584" width="828" height="572" frameX="-372" frameY="-606" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 down0003" x="1494" y="584" width="828" height="572" frameX="-372" frameY="-606" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 down0004" x="1494" y="584" width="828" height="572" frameX="-372" frameY="-606" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 down0005" x="1494" y="584" width="828" height="572" frameX="-372" frameY="-606" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 left0000" x="2324" y="0" width="867" height="565" frameX="-297" frameY="-402" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 left0001" x="2324" y="0" width="867" height="565" frameX="-297" frameY="-402" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 left0002" x="880" y="1342" width="809" height="570" frameX="-331" frameY="-391" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 left0003" x="880" y="1342" width="809" height="570" frameX="-331" frameY="-391" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 left0004" x="880" y="1342" width="809" height="570" frameX="-331" frameY="-391" frameWidth="1740" frameHeight="1548" />
+<SubTexture name="Liesfishsec1 left0005" x="880" y="1342" width="809" height="570" frameX="-331" frameY="-391" frameWidth="1740" frameHeight="1548" />
+</TextureAtlas>

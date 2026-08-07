@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-13
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "gf_yay",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-33
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "gf_ugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "gf_idleleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-15
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "gf_idleright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/1",
+	"position": [
+		-60,
+		-150
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

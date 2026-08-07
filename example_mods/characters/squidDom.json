@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				139
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Squid Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				99
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Squid Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				178
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Squid Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Squid Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Squid Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Squiddoomsday",
+	"position": [
+		-450,
+		-480
+	],
+	"healthicon": "darkward",
+	"flip_x": false,
+	"healthbar_colors": [
+		118,
+		110,
+		127
+	],
+	"camera_position": [
+		420,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

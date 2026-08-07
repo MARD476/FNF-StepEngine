@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PicoCrouchIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PicoCrouchLeft0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PicoCrouchDown0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PicoCrouchUp0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PicoCrouchRight0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-17
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "PicoLeft0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				30
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "PicoRight0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				64
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "PicoUp0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-100
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "PicoDown0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				257,
+				209
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "Shoot",
+			"indices": [],
+			"name": "PicoShoot"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				211
+			],
+			"anim": "singLEFT-shoot",
+			"fps": 15,
+			"name": "PicoShoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				251,
+				210
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN-shoot",
+			"indices": [],
+			"name": "PicoShoot"
+		},
+		{
+			"offsets": [
+				250,
+				210
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP-shoot",
+			"indices": [],
+			"name": "PicoShoot"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				258,
+				205
+			],
+			"anim": "singRIGHT-shoot",
+			"fps": 15,
+			"name": "PicoShoot",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "liar/Too_Late_Pico_ass_sets_v2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-100,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

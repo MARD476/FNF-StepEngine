@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Plankton.png">
+<SubTexture name="Plankton Idle0000" x="0" y="2199" width="969" height="420" frameX="-170" frameY="-445" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Idle0001" x="969" y="2199" width="976" height="419" frameX="-171" frameY="-458" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Idle0002" x="2749" y="0" width="980" height="419" frameX="-170" frameY="-475" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Idle0003" x="0" y="1765" width="980" height="434" frameX="-170" frameY="-472" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Idle0004" x="2749" y="419" width="980" height="419" frameX="-170" frameY="-475" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Idle0005" x="2749" y="838" width="976" height="419" frameX="-172" frameY="-464" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Idle0006" x="980" y="1765" width="976" height="425" frameX="-172" frameY="-460" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Down0000" x="2749" y="2268" width="682" height="332" frameX="-296" frameY="-522" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Down0001" x="2749" y="1932" width="626" height="336" frameX="-330" frameY="-538" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Down0002" x="2749" y="1257" width="645" height="338" frameX="-321" frameY="-536" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Down0003" x="2749" y="1595" width="682" height="337" frameX="-297" frameY="-526" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Left0000" x="531" y="687" width="745" height="470" frameX="-14" frameY="-366" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Left0001" x="1394" y="0" width="686" height="469" frameX="-77" frameY="-366" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Left0002" x="1394" y="469" width="680" height="469" frameX="-85" frameY="-366" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Left0003" x="0" y="1296" width="668" height="469" frameX="-100" frameY="-366" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Right0000" x="668" y="1296" width="712" height="460" frameX="-544" frameY="-366" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Right0001" x="1380" y="1296" width="681" height="460" frameX="-542" frameY="-366" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Right0002" x="2080" y="0" width="669" height="460" frameX="-541" frameY="-366" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Right0003" x="2080" y="460" width="659" height="460" frameX="-540" frameY="-366" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Up0000" x="0" y="0" width="436" height="687" frameX="-488" frameY="-117" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Up0001" x="436" y="0" width="460" height="663" frameX="-476" frameY="-141" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Up0002" x="896" y="0" width="498" height="643" frameX="-460" frameY="-161" frameWidth="1325" frameHeight="1089" />
+<SubTexture name="Plankton Up0003" x="0" y="687" width="531" height="609" frameX="-438" frameY="-195" frameWidth="1325" frameHeight="1089" />
+</TextureAtlas>
