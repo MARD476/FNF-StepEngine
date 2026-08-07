@@ -96,6 +96,9 @@ jobs:
         run: echo "${{github.run_id}}" > VERSION
       - name: Compile
         run: haxelib run lime build mac --app-version="4.0.0-${{ github.run_id}}"
+      - name: Install Haxelib dependencies
+        run: |
+          haxelib install flxgif
       - name: Publish Artifact
         uses: actions/upload-artifact@v4
         with:
