@@ -68,6 +68,11 @@
       "url": "https://github.com/Aidan63/linc_discord-rpc"
     },
     {
+      "name": "flxgif",
+      "type": "haxelib",
+      "version": "1.0.3"
+    },
+    {
       "name": "linc_luajit",
       "type": "git",
       "dir": null,
