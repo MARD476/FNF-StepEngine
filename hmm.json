@@ -73,6 +73,11 @@
       "version": "1.0.3"
     },
     {
+      "name": "hxWindowColorMode",
+      "type": "haxelib",
+      "version": "0.2.1"
+    },
+    {
       "name": "linc_luajit",
       "type": "git",
       "dir": null,
