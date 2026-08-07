@@ -53,13 +53,41 @@ Since it's a modified version of Psych Engine, it includes practically all of it
 
 Yes, it supports Psych Engine mods, but only for versions 0.7 through 0.7.1h. Note that P-Slice is not supported either
 
+
 ### SM files
 
 Sure, it has support for .sm files—or rather, a converter that turns .sm files into .JSON
+
 
 ### StepMania Mode
 
 It has a separate Freeplay section where you can find the .sm (StepMania) songs.
 
-![](https://github.com/user-attachments/assets/9207588f-14f3-4a76-8d47-28f1f2256ae8)
+#### Freeplay
+
+All songs will appear in the StepMania Freeplay list.
+
+![](https://github.com/user-attachments/assets/3ab9793b-4021-4ad4-a7b5-c91fbdb0d3c5)
+
+#### Step Dancing Options
+
+Gameplay Modifiers Options Screen - StepMania Mode
+
+![](https://github.com/user-attachments/assets/88f40700-46b8-43a2-b90e-eab153544132)
+
+#### Results Screen
+
+Every time you finish a song, a results screen will pop up. This also applies to regular FNF songs.
+
+![](https://github.com/user-attachments/assets/80d2a560-e38f-41ad-882a-8c83d51ed4be)
+
+### New Main Menu
+#### Main Menu Changes:
+
+* Added the StepMania Freeplay section
+
+Displays your current country along with its flag
+
+![](https://github.com/user-attachments/assets/9166cd92-f829-4b5e-8e9d-bb66d87bc50b)
+
 
